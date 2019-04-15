@@ -1,2 +1,2 @@
 # java-project
-just update
+just update 1
